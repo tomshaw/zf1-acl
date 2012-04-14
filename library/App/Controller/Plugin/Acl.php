@@ -2,9 +2,9 @@
 /**
  * Zend ACL (A)ccess (C)ontrol (L)ist Implementation
  * 
- * @see 		http://framework.zend.com/manual/en/zend.acl.html
- * @author		Tom Shaw [tom at tomshaw dot info]
- * @copyright	(C) Tom Shaw 2012. All rights reserved.
+ * @see         http://framework.zend.com/manual/en/zend.acl.html
+ * @author      Tom Shaw [tom at tomshaw dot info]
+ * @copyright   (C) Tom Shaw 2012. All rights reserved.
  * @license     MIT Licensed
  */
 class App_Controller_Plugin_Acl extends Zend_Controller_Plugin_Abstract implements IteratorAggregate, Countable
