@@ -16,15 +16,11 @@
 
 There are some additional public methods that I have found useful. These methods are documented in the doc blocks and are somewhat self explanatory.
 
-# Questions or Comments?
-
-Email: tom@tomshaw.info
-
 ## License 
 
 (The MIT License)
 
-Copyright (c) 2011 Tom Shaw &lt;tom@tomshaw.info&gt;
+Copyright (c) 2011 Tom Shaw &lt;tom@visfx.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
